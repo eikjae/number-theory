@@ -1,1 +1,1 @@
-# Graduation-thesis-on-number-theory
+# 졸업 논문
